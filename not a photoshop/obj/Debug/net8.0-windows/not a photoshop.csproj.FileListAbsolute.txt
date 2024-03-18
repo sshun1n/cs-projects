@@ -1,0 +1,17 @@
+C:\coding\с#\not a photoshop\not a photoshop\bin\Debug\net8.0-windows\not a photoshop.exe
+C:\coding\с#\not a photoshop\not a photoshop\bin\Debug\net8.0-windows\not a photoshop.deps.json
+C:\coding\с#\not a photoshop\not a photoshop\bin\Debug\net8.0-windows\not a photoshop.runtimeconfig.json
+C:\coding\с#\not a photoshop\not a photoshop\bin\Debug\net8.0-windows\not a photoshop.dll
+C:\coding\с#\not a photoshop\not a photoshop\bin\Debug\net8.0-windows\not a photoshop.pdb
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.csproj.GenerateResource.cache
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.AssemblyInfoInputs.cache
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.AssemblyInfo.cs
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.csproj.CoreCompileInputs.cache
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.dll
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\refint\not a photoshop.dll
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.pdb
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.genruntimeconfig.cache
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\ref\not a photoshop.dll
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not_a_photoshop.mainForm.resources
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not_a_photoshop.Properties.Resources.resources
