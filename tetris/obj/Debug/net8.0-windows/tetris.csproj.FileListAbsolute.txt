@@ -1,0 +1,16 @@
+C:\coding\с#\tetris\tetris\bin\Debug\net8.0-windows\tetris.exe
+C:\coding\с#\tetris\tetris\bin\Debug\net8.0-windows\tetris.deps.json
+C:\coding\с#\tetris\tetris\bin\Debug\net8.0-windows\tetris.runtimeconfig.json
+C:\coding\с#\tetris\tetris\bin\Debug\net8.0-windows\tetris.dll
+C:\coding\с#\tetris\tetris\bin\Debug\net8.0-windows\tetris.pdb
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.mainForm.resources
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.GenerateResource.cache
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfoInputs.cache
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.AssemblyInfo.cs
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.csproj.CoreCompileInputs.cache
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.dll
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\refint\tetris.dll
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.pdb
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\tetris.genruntimeconfig.cache
+C:\coding\с#\tetris\tetris\obj\Debug\net8.0-windows\ref\tetris.dll
