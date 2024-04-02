@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("not a photoshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2c053f6ce4b85327bbf5079ecd7e2dcd74b6f5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("not a photoshop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("not a photoshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

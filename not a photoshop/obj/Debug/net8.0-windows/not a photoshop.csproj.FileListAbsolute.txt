@@ -15,3 +15,4 @@ C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a pho
 C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\ref\not a photoshop.dll
 C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not_a_photoshop.mainForm.resources
 C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not_a_photoshop.Properties.Resources.resources
+C:\coding\с#\not a photoshop\not a photoshop\obj\Debug\net8.0-windows\not a photoshop.sourcelink.json
